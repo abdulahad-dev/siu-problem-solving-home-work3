@@ -1,6 +1,5 @@
 SMU Problem Solving-3-(24-05-2024)
 
-
 01. Print Numbers from 1 to 10
 02. Print a Number 5 Times
 03. Print Even Numbers from 1 to 20
